@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="846362e7-e1d6-43e9-b58d-2913eb2c84c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/cs/calc/server/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/libs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/libs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cs/calc/server/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs/calc/server/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +25,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WirF0R5CAOmNXRgbesLUlvdsku" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -79,6 +85,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="774" y="401" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579791531279">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="774" y="401" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579791531279" />
     <state x="370" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579643543880">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
@@ -91,21 +101,29 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="100" y="100" width="1080" height="560" key="DiffContextDialog/0.0.1280.760@0.0.1280.760" timestamp="1579643681838" />
-    <state width="1220" height="187" key="GridCell.Tab.0.bottom" timestamp="1579643597355">
-      <screen x="0" y="0" width="1280" height="760" />
+    <state x="690" y="217" key="FileChooserDialogImpl" timestamp="1579795513432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="217" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579795513432" />
+    <state width="1865" height="267" key="GridCell.Tab.0.bottom" timestamp="1579799433890">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1220" height="187" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1579643597355" />
-    <state width="1220" height="187" key="GridCell.Tab.0.center" timestamp="1579643597353">
-      <screen x="0" y="0" width="1280" height="760" />
+    <state width="1865" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579799433890" />
+    <state width="1865" height="267" key="GridCell.Tab.0.center" timestamp="1579799433890">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1220" height="187" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1579643597353" />
-    <state width="1220" height="187" key="GridCell.Tab.0.left" timestamp="1579643597353">
-      <screen x="0" y="0" width="1280" height="760" />
+    <state width="1865" height="267" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579799433890" />
+    <state width="1865" height="267" key="GridCell.Tab.0.left" timestamp="1579799433890">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1220" height="187" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1579643597353" />
-    <state width="1220" height="187" key="GridCell.Tab.0.right" timestamp="1579643597353">
-      <screen x="0" y="0" width="1280" height="760" />
+    <state width="1865" height="267" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579799433890" />
+    <state width="1865" height="267" key="GridCell.Tab.0.right" timestamp="1579799433890">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1220" height="187" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1579643597353" />
+    <state width="1865" height="267" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579799433890" />
   </component>
 </project>

@@ -1,16 +1,16 @@
 <component name="libraryTable">
-<library name="libs">
+  <library name="libs">
     <CLASSES>
-        <root url="jar://$PROJECT_DIR$/libs/javax.servlet-api.jar!/" />
-        <root url="jar://$PROJECT_DIR$/libs/jaxws-rt.jar!/" />
-        <root url="jar://$PROJECT_DIR$/libs/webservices-api.jar!/" />
-        <root url="jar://$PROJECT_DIR$/libs/javax.annotation-api.jar!/" />
-        <root url="jar://$PROJECT_DIR$/libs/istack-commons-runtime.jar!/" />
-        <root url="jar://$PROJECT_DIR$/libs/jaxb-osgi.jar!/" />
-        <root url="jar://$PROJECT_DIR$/libs/javax.activation.jar!/" />
-        <root url="jar://$PROJECT_DIR$/libs/webservices-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/javax.servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jaxws-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/webservices-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/javax.annotation-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/istack-commons-runtime.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jaxb-osgi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/javax.activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/webservices-rt.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
-</library>
+  </library>
 </component>
